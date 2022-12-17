@@ -13,7 +13,7 @@ body {
   .heading {
     margin-bottom: 20px;
     font-size: 3rem;
-    color: rgb(122, 12, 12);
+    color: rgb(201, 201, 201);
   }
    
   .header {
@@ -29,7 +29,7 @@ body {
     margin: 8px;
     padding: 12px;
     border-radius: 20%;
-    box-shadow: rgb(138, 55, 55) 5px 8px 5px;
+    box-shadow: rgb(240, 224, 224) 5px 8px 5px;
   }
    
   .cpm, .wpm  {
